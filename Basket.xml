@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!--
+    Document   : Basket.xml
+    Created on : 8 Δεκέμβριος 2011, 4:47 μμ
+    Author     : BerkosDesk
+    Description:
+        Purpose of the document follows.
+-->
+
+<Basket>
+    <ITEM>
+        <name>Cafee</name>
+        <Price>18.5</Price>
+    </ITEM>
+    <ITEM>
+        <name>Sugar</name>
+        <Price>6.95</Price>
+    </ITEM>
+    <ITEM>
+        <name>Water</name>
+        <Price>1.29</Price>
+    </ITEM>
+</Basket>
